@@ -1,0 +1,25 @@
+{
+  "name": "backbone-1.1.x",
+  "version": "0.1.0",
+  "description": "A package that exports `backbone@1.1.x`, to allow including multiple versions of Backbone in an app via NPM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spikebrehm/backbone-1.1.x.git"
+  },
+  "keywords": [
+    "backbone"
+  ],
+  "author": "Spike Brehm <ocelot@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spikebrehm/backbone-1.1.x/issues"
+  },
+  "homepage": "https://github.com/spikebrehm/backbone-1.1.x",
+  "dependencies": {
+    "backbone": "^1.1.2"
+  }
+}
